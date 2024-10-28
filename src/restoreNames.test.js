@@ -9,7 +9,7 @@ describe("restoreNames", () => {
   });
 
   it(`should restore firstname
-    if user has undefined value in firstname`, () => {
+     if user has undefined value in firstname`, () => {
     const users = [
       {
         firstName: undefined,
